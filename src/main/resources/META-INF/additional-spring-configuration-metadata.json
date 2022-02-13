@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "baseCurrency",
+      "type": "java.lang.String",
+      "description": "Description for baseCurrency."
+    },
+    {
+      "name": "apiKey",
+      "type": "java.lang.String",
+      "description": "Description for apiKey."
+    }
+  ] }
